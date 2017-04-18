@@ -1,10 +1,10 @@
-# DT Notes
+# Geography A Notes
 ## Details
 
-Board: Pearson EDEXCEL
+Board: AQA
 
-Level: GCSE Level 1/2
+Level: GCSE
 
-Course Code: [2RM01](https://qualifications.pearson.com/en/qualifications/edexcel-gcses/design-and-technology-resistant-materials-2009.html)
+Course Code: [Geography A 9030](http://www.aqa.org.uk/subjects/geography/gcse/geography-a-9030)
 
-Section: Notes for Unit 2
+Section: Notes for selected units
